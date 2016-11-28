@@ -19,7 +19,7 @@
 ## no mean subtraction accuracy- 49.66%
 
 ##############
-setwd("C:\\Users\\developer\\Documents\\rfiles\\contest 2\\contest 2")
+setwd("")
 #library(h2o)
 library(doParallel)
 library(foreach)
